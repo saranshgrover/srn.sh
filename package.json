@@ -1,0 +1,15 @@
+{
+  "name": "srnsh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "keywords": [],
+  "author": "Saransh Grover <saransh.grover@stonybrook.edu> (https://saranshgrover.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "netlify-shortener": "^2.3.0"
+  }
+}
