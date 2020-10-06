@@ -11,5 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "netlify-shortener": "^2.3.0"
-  }
+  },
+  "homepage": "https://srn.sh/"
 }
